@@ -2,8 +2,9 @@
 List of verifiable and official Bluesky accounts.
 
 ## What counts as verifiable?
+- [Domain verified account](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial)
 - Link from an official website to the owner's BlueSky account. Examples
-  - Link from company/individual website to Bluesky
+  - Link from company/individual website to Bluesky account
   - Link from other social media account that has been verified, E.g. verified Instagram account links to Bluesky account
 - Mainstream media article that cites the account name
 
