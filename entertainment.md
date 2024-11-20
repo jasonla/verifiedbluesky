@@ -1,0 +1,4 @@
+- Barbara Streisand [https://bsky.app/profile/barbrastreisand.bsky.social](https://bsky.app/profile/barbrastreisand.bsky.social)
+  - https://x.com/BarbraStreisand/status/1857222730787045605
+- Guillermo del Toro [https://bsky.app/profile/realgdt.bsky.social](https://bsky.app/profile/realgdt.bsky.social)
+  - https://x.com/RealGDT/status/1855745268295270735
