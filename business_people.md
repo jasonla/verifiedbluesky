@@ -1,0 +1,2 @@
+- Mark Cuban https://bsky.app/profile/mcuban.bsky.social
+  - Source: https://www.nytimes.com/2024/11/12/style/bluesky-users-election.html
